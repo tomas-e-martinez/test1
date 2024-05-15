@@ -16,6 +16,7 @@ namespace POOrepaso2
 
         public virtual void Saludar()
         {
+            //comentario test commit 2
             Console.WriteLine("Hola, soy una persona y tengo " +  Edad + " años.");
         }
 
